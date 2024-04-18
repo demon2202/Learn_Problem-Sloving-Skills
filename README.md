@@ -1,4 +1,4 @@
-#### Problem-Solving Skills Repository
+#### Problem-Solving Skills 
 
 Welcome to the Problem-Solving Skills repository! This repository aims to provide resources, tutorials, and tools to help you develop and improve your problem-solving skills.
 
