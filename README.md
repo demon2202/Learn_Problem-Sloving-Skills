@@ -6,13 +6,12 @@ Welcome to the Problem-Solving Skills repository! This repository aims to provid
 
 #### Table of Contents
 
-1. [Introduction]
-2. [Getting Started]
-3. [Resources]
-4. [Tutorials]
-5. [Tools]
-6. [Contributing]
-7. [License]
+1. Introduction
+2. Getting Started
+3. Resources
+4. Tutorials
+5. Tools
+6. Contributing
 
 ---
 
